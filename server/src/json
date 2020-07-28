@@ -1,0 +1,14 @@
+{
+    "name": "Mercado São Sebastião",
+    "email": "sebastiao@email.com.br",
+    "whatsapp": "85997753516",
+    "latitude": "-40.326541",
+    "longitude": "-30.215441",
+    "city": "Fortaleza",
+    "uf": "CE",
+    "items": [
+        2,
+        4,
+        5
+    ]
+}
